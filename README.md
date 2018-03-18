@@ -1,2 +1,8 @@
 # didoff.github.io
-Blog exercise
+
+## Blog exercise
+================
+
+### SoftUni blog design exercise 
+
+Currently w/o JS
