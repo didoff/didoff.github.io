@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4476fee-5c7b-45b8-babb-f913db79363a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/createnewpost.html" afterPath="$PROJECT_DIR$/createnewpost.html" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -16,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
-              <caret line="37" column="16" lean-forward="false" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+              <caret line="54" column="104" lean-forward="true" selection-start-line="54" selection-start-column="104" selection-end-line="54" selection-end-column="104" />
               <folding />
             </state>
           </provider>
@@ -61,13 +62,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="createnewpost.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="createnewpost.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/createnewpost.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="65" column="191" lean-forward="false" selection-start-line="65" selection-start-column="191" selection-end-line="65" selection-end-column="191" />
+            <state relative-caret-position="416">
+              <caret line="65" column="125" lean-forward="false" selection-start-line="65" selection-start-column="125" selection-end-line="65" selection-end-column="125" />
               <folding>
-                <element signature="e#3016#3022#0" expanded="true" />
+                <element signature="e#2950#2956#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -114,12 +115,12 @@
       <list>
         <option value="$PROJECT_DIR$/indexLogged.html" />
         <option value="$PROJECT_DIR$/viewpost.html" />
-        <option value="$PROJECT_DIR$/createnewpost.html" />
         <option value="$PROJECT_DIR$/viewpost1.html" />
         <option value="$PROJECT_DIR$/indexlogged.html" />
         <option value="$PROJECT_DIR$/register.html" />
         <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/createnewpost.html" />
       </list>
     </option>
   </component>
@@ -229,12 +230,12 @@
       <workItem from="1521366757455" duration="8677000" />
       <workItem from="1521409651808" duration="8000" />
       <workItem from="1521975995920" duration="5680000" />
-      <workItem from="1521981882788" duration="350000" />
+      <workItem from="1521981882788" duration="594000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21307000" />
+    <option name="totallyTimeSpent" value="21551000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -312,7 +313,7 @@
         <state relative-caret-position="1105">
           <caret line="65" column="191" lean-forward="false" selection-start-line="65" selection-start-column="191" selection-end-line="65" selection-end-column="191" />
           <folding>
-            <element signature="e#3016#3022#0" expanded="true" />
+            <element signature="e#2950#2956#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -379,7 +380,7 @@
         <state relative-caret-position="1105">
           <caret line="65" column="85" lean-forward="true" selection-start-line="65" selection-start-column="85" selection-end-line="65" selection-end-column="85" />
           <folding>
-            <element signature="e#3016#3022#0" expanded="true" />
+            <element signature="e#2950#2956#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -426,7 +427,7 @@
         <state relative-caret-position="1105">
           <caret line="65" column="85" lean-forward="true" selection-start-line="65" selection-start-column="85" selection-end-line="65" selection-end-column="85" />
           <folding>
-            <element signature="e#3016#3022#0" expanded="true" />
+            <element signature="e#2950#2956#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -498,16 +499,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/createnewpost.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="65" column="191" lean-forward="false" selection-start-line="65" selection-start-column="191" selection-end-line="65" selection-end-column="191" />
-          <folding>
-            <element signature="e#3016#3022#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/register.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1207">
@@ -529,8 +520,18 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="37" column="16" lean-forward="false" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+          <caret line="54" column="104" lean-forward="true" selection-start-line="54" selection-start-column="104" selection-end-line="54" selection-end-column="104" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/createnewpost.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="65" column="125" lean-forward="false" selection-start-line="65" selection-start-column="125" selection-end-line="65" selection-end-column="125" />
+          <folding>
+            <element signature="e#2950#2956#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
